@@ -1,6 +1,6 @@
 # Drug-Likeness & Cheminformatics Screening of Plant-Derived Antimicrobial Compounds
 
-RDKit-based screening of phytochemicals reported in three medicinal plants — **Moringa oleifera**, **Parkia biglobosa**, and **Vernonia amygdalina** — for drug-likeness (Lipinski's Rule of Five, Veber's rule) and structural toxicity/reactivity alerts (PAINS, Brenk).
+RDKit-based screening of phytochemicals reported in three medicinal plants — **Moringa oleifera**, **Parkia biglobosa**, and **Vernonia amygdalina** for drug-likeness (Lipinski's Rule of Five, Veber's rule) and structural toxicity/reactivity alerts (PAINS, Brenk).
 
 This project is a computational companion analysis to:
 
